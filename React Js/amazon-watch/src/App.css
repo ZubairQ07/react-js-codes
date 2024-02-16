@@ -1,0 +1,132 @@
+body {
+  font-family: 'source sans pro',sans-serif;
+}
+.Topbar {
+  width: 100%;
+  background-color: #282c34;
+  text-align: center;
+  padding: 12px 24px 12px;
+
+  position: fixed;
+  top:0;
+  left: 0;
+}
+
+.Topbar> img {
+  width:100px;
+  
+}
+.mainContainer{
+  padding: 4% 12%;
+  margin-top:32px;
+  display: flex;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+.productPreview{
+  width: 50%;
+  position: relative;
+}
+.productPreview > img{
+  width: 100%;
+}
+.fitband{
+  font-size: 55px;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 16px;
+  
+  
+}
+.productDescription {
+  font-size:20px;
+  color:rgba(0 0 0 0.8);
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+.productImages{
+  width: 100%;
+  max-width: 80px;
+  border:2px solid transparent;
+  border-radius: 8px;
+  text-align: left;
+  margin-right: 12px;
+  cursor: pointer;
+}
+
+.images {
+  text-align: start;
+}
+.selectedProductedImage{
+  border:2px solid teal;
+}
+.sectionHeading{
+  font-size: 28px;
+  margin-bottom: 8px;
+}
+.btn-feature{
+  background-color: gainsboro;
+  border-radius: 8px;
+  border: 0;
+  min-width: 80px;
+  padding: 12px;
+  font-weight: 700;
+  text-align: center;
+  box-sizing: content-box;
+  margin-right: 12px;
+  cursor:pointer;
+
+}
+.selectedProductFeature{
+  color: white;
+  background-color: grey;
+}
+.buyButton{
+  float:left;
+  background-color: teal;
+  color: white;
+  padding: 12px 24px;
+  border: 0;
+  border-radius: 8px;
+  margin-top: 24px;
+  font-size: 20px;
+  cursor: pointer;
+
+}
+.dateTime{
+  position:absolute;
+  top:28%;
+  color: white;
+  left: 35%;
+  font-weight: 600;
+  font-size: 48px;
+}
+.HeartBeat {
+  position:absolute;
+  top:28%;
+  color: white;
+  left: 43%;
+  font-weight: 600;
+  font-size: 48px;
+}
+.HeartBeat>p{
+  margin-top: 16px;
+
+}
+.HeartBeat>i{
+  color: red;
+  animation: beat 1s infinite;
+}
+@keyframes beat {
+  0%{
+    transform: scale(0.5,0.5);
+  }
+  50%{
+    transform: scale(1.5,1.5);
+  }
+  100%{
+    transform:scale(0.5,0.5);
+  }
+  
+}

@@ -1,0 +1,193 @@
+{
+  "teamdetails": [
+    {
+      "id": 1,
+      "team": "Aston Villa",
+      "tournament": "Premier League",
+      "goals": 29,
+      "shots": 15.9,
+      "discipline": 272,
+      "rating": 7.02
+    },
+    {
+      "id": 2,
+      "team": "Paris Saint-Germain",
+      "tournament": "Ligue 1",
+      "goals": 43,
+      "shots": 15.5,
+      "discipline": 365,
+      "rating": 6.92
+    },
+    {
+      "id": 3,
+      "team": "Juventus",
+      "tournament": "Serie A",
+      "goals": 35,
+      "shots": 15.9,
+      "discipline": 335,
+      "rating": 6.9
+    },
+    {
+      "id": 4,
+      "team": "Atletico Madrid",
+      "tournament": "LaLiga",
+      "goals": 29,
+      "shots": 11.7,
+      "discipline": 370,
+      "rating": 6.87
+    },
+    {
+      "id": 5,
+      "team": "AC Milan",
+      "tournament": "Serie A",
+      "goals": 37,
+      "shots": 15.6,
+      "discipline": 441,
+      "rating": 6.87
+    },
+    {
+      "id": 6,
+      "team": "Manchester City",
+      "tournament": "Premier League",
+      "goals": 24,
+      "shots": 15.6,
+      "discipline": 220,
+      "rating": 6.87
+    },
+    {
+      "id": 7,
+      "team": "Bayern Munich",
+      "tournament": "Bundesliga",
+      "goals": 46,
+      "shots": 15,
+      "discipline": 231,
+      "rating": 6.86
+    },
+    {
+      "id": 8,
+      "team": "Borussia Dortmund",
+      "tournament": "Bundesliga",
+      "goals": 31,
+      "shots": 15.5,
+      "discipline": 230,
+      "rating": 6.86
+    },
+    {
+      "id": 9,
+      "team": "Barcelona",
+      "tournament": "LaLiga",
+      "goals": 37,
+      "shots": 16.4,
+      "discipline": 331,
+      "rating": 6.86
+    },
+    {
+      "id": 10,
+      "team": "Liverpool",
+      "tournament": "Premier League",
+      "goals": 37,
+      "shots": 15.4,
+      "discipline": 160,
+      "rating": 6.84
+    },
+    {
+      "id": 11,
+      "team": "Atalanta",
+      "tournament": "Serie A",
+      "goals": 40,
+      "shots": 16.9,
+      "discipline": 330,
+      "rating": 6.84
+    },
+    {
+      "id": 12,
+      "team": "Lille",
+      "tournament": "Ligue 1",
+      "goals": 33,
+      "shots": 12.8,
+      "discipline": 351,
+      "rating": 6.84
+    },
+    {
+      "id": 13,
+      "team": "Chelsea",
+      "tournament": "Premier League",
+      "goals": 32,
+      "shots": 13.7,
+      "discipline": 231,
+      "rating": 6.83
+    },
+    {
+      "id": 14,
+      "team": "Tottenham",
+      "tournament": "Premier League",
+      "goals": 29,
+      "shots": 11.3,
+      "discipline": 211,
+      "rating": 6.83
+    },
+    {
+      "id": 15,
+      "team": "Real Madrid",
+      "tournament": "LaLiga",
+      "goals": 30,
+      "shots": 13.6,
+      "discipline": 320,
+      "rating": 6.83
+    },
+    {
+      "id": 16,
+      "team": "Lyon",
+      "tournament": "Ligue 1",
+      "goals": 39,
+      "shots": 16.5,
+      "discipline": 385,
+      "rating": 6.83
+    },
+    {
+      "id": 17,
+      "team": "Southampton",
+      "tournament": "Premier League",
+      "goals": 26,
+      "shots": 10.2,
+      "discipline": 250,
+      "rating": 6.82
+    },
+    {
+      "id": 18,
+      "team": "Roma",
+      "tournament": "Serie A",
+      "goals": 37,
+      "shots": 14.8,
+      "discipline": 361,
+      "rating": 6.82
+    },
+    {
+      "id": 19,
+      "team": "Napoli",
+      "tournament": "Serie A",
+      "goals": 34,
+      "shots": 19,
+      "discipline": 272,
+      "rating": 6.82
+    },
+    {
+      "id": 20,
+      "team": "Everton",
+      "tournament": "Premier League",
+      "goals": 26,
+      "shots": 10.9,
+      "discipline": 282,
+      "rating": 7.02
+    },
+    {
+      "id": "101",
+      "team": "A",
+      "tournament": "A",
+      "goals": "100",
+      "shots": "500",
+      "discipline": "100",
+      "rating": "2"
+    }
+  ]
+}
